@@ -63,7 +63,7 @@ body{
 
 .Galary-image-container{
     padding-top: 20px;
-    background-color: blueviolet;
+    background-color: rgba(94, 88, 99, 0);
     display: flex;
 }
 .galary{
